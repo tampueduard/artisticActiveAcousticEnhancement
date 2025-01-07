@@ -1,4 +1,4 @@
-> “The “paradox” is only a conflict between reality and your feeling of what reality “ought to be”.”
+> The “paradox” is only a conflict between reality and your feeling of what reality “ought to be”.
 >
 > (R. Feynman. The Feynman Lectures on Physics (1964), p. 18-9)
 
