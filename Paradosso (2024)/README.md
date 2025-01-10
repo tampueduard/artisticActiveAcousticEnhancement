@@ -5,3 +5,7 @@
 The findings of the thesis culminated in the electroacoustic composition *Paradosso*, written for Alto Saxophone, Live Electronics, and Active Acoustic Enhancement. The piece has been performed twice: once on October 25th and again on December 19th, 2024, in the Marsio Cinema in Otaniemi, Finland.
 
 Composed of three sections, *Paradosso* explores the interrelationship between space and composed materials through performative action. The piece uses non-fixed composed materials. These sparse predefined elements touch upon the structural identity of the piece, the instrumentation used, and the general character of the acoustic enhancement. Within each of the three sections, pre-established moments work towards the overall development of the piece. At the same time, the performance is either guided through indications or freely explores sonorities and bonds with the acoustics.
+
+____
+
+The video of the pervormance can be found on [YouTube](https://www.youtube.com/embed/9yNQbnhjIkk?si=BvYDKfbxYPSCx-cz)
